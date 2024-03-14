@@ -12,7 +12,7 @@ const Courses = ({handleCharts}) => {
         .then(data => setCourses(data))
     },[])
     return (
-        <div className="grid grid-cols-3 gap-3">
+        <div className="flex flex-col lg:grid lg:grid-cols-3 lg:gap-3 gap-5">
             {
                 courses.map((course) => <Course key={course.ID}
                 course={course}

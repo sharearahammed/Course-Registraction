@@ -8,17 +8,17 @@ const Course = ({course,handleCharts}) => {
     return (
 
     <div className="">
-    <div className="card w-96 bg-base-100 shadow-xl">
+    <div className="card lg:w-96 bg-base-100 shadow-xl">
         <figure><img className="lg:h-[250px] lg:w-[400px]" src={Photo} alt="" /></figure>
         <div className="card-body">
             <h2 className="text-lg font-bold">{Name}</h2>
             <p>{Description}</p>
-            <div className="flex justify-around items-center text-xl">
-            <div className="flex justify-around items-center gap-4">
+            <div className="flex justify-around items-center lg:text-xl">
+            <div className="flex justify-around items-center lg:gap-4">
             <FaDollarSign />
             <p>Price: {Price}</p>
             </div>
-            <div className="flex justify-around items-center gap-4">
+            <div className="flex justify-around items-center lg:gap-4">
             <IoBookOutline />
             <p>Credit: {Credit}</p>
             </div>
