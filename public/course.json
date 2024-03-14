@@ -1,0 +1,75 @@
+[
+    {
+      "ID": 1,
+      "Name": "Introduction to Python Programming",
+      "Description": "Learn the fundamentals of Python programming language.",
+      "Photo": "https://i.ibb.co/JKYkXCV/python.jpg",
+      "Price": 49.99,
+      "Credit": 3
+    },
+    {
+      "ID": 2,
+      "Name": "Web Development Bootcamp",
+      "Description": "Master modern web development technologies like HTML, CSS, and JavaScript.",
+      "Photo": "https://i.ibb.co/zSWJ8pv/SEO-Mastery.jpg",
+      "Price": 79.99,
+      "Credit": 5
+    },
+    {
+      "ID": 3,
+      "Name": "Machine Learning Fundamentals",
+      "Description": "Explore the basics of machine learning and its applications.",
+      "Photo": "https://i.ibb.co/cXjsVhT/machine-learning-basics.jpg",
+      "Price": 99.99,
+      "Credit": 6
+    },
+    {
+      "ID": 4,
+      "Name": "Digital Marketing Strategies",
+      "Description": "Learn effective digital marketing strategies to boost your business.",
+      "Photo": "https://i.ibb.co/YtKWC7P/businesswoman-hand-working-laptop-computer-600nw-1041718081.jpg",
+      "Price": 59.99,
+      "Credit": 4
+    },
+    {
+      "ID": 5,
+      "Name": "Graphic Design Essentials",
+      "Description": "Master the essentials of graphic design and create stunning visuals.",
+      "Photo": "https://i.ibb.co/QXvBcT9/Graphic-Design-Essentials-For-Businesses.jpg",
+      "Price": 69.99,
+      "Credit": 4
+    },
+    {
+      "ID": 6,
+      "Name": "Financial Literacy 101",
+      "Description": "Understand the basics of personal finance and investments.",
+      "Photo": "https://i.ibb.co/gvbXwn9/financial-literacy-101.jpg",
+      "Price": 39.99,
+      "Credit": 2
+    },
+    {
+      "ID": 7,
+      "Name": "Photography Fundamentals",
+      "Description": "Learn the fundamentals of photography and improve your skills.",
+      "Photo": "https://i.ibb.co/8xZZTd0/What-Is-Resolution-Photography-Fundamentals-Blog-PRO-EDU.jpg",
+      "Price": 49.99,
+      "Credit": 3
+    },
+    {
+      "ID": 8,
+      "Name": "Artificial Intelligence Essentials",
+      "Description": "Explore the basics of artificial intelligence and its applications.",
+      "Photo": "https://i.ibb.co/YNT94My/ai.jpg",
+      "Price": 89.99,
+      "Credit": 6
+    },
+    {
+      "ID": 9,
+      "Name": "Spanish Language Crash Course",
+      "Description": "Learn basic Spanish phrases and conversation skills.",
+      "Photo": "https://i.ibb.co/WDFBWDG/spanish-classes-nyc.jpg",
+      "Price": 29.99,
+      "Credit": 2
+    }
+  ]
+  
